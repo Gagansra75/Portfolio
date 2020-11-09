@@ -68,6 +68,10 @@ body {
 	max-width: 100%;
 }
 
+.workImage {
+	max-width: 100%;
+}
+
 .skillsSection,
 .contactSection {
 	background-color: #e74c3c;
@@ -324,7 +328,7 @@ body {
 }
 
 #navigation {
-	background-color: #e74c3c;
+	background-color: black;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
